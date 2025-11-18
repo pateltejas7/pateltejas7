@@ -67,6 +67,15 @@
 
 ---
 
+<!-- ======================== Certifications ======================== -->
+## 🎓 Certifications
+<p align="center">
+  <img src="https://img.shields.io/badge/ISTQB-Certified-blue?style=for-the-badge&logo=istqb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-Certified-orange?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-Certified-darkgreen?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python_with_Selenium-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+---
 <!-- ======================== Connect ======================== -->
 ## 🤝 Connect with Me
 <p align="center">
