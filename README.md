@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-282C34?style=for-the-badge&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -30,7 +31,7 @@
 
 <!-- ======================== Skills ======================== -->
 ## 🛠️ Skills
-- **Languages:** Python, Java, JavaScript  
+- **Languages:** Python, Java  
 - **Automation:** Selenium, Playwright, Pytest, TestNG  
 - **API Testing:** REST Assured, Postman  
 - **CI/CD & DevOps:** Jenkins, Docker  
@@ -44,6 +45,7 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **Hybrid Automation Framework** | Selenium + Java + TestNG automation framework | Java, Selenium, TestNG, Maven |
+| **BDD Automation Framework** | Selenium + Java + Cucumber framework | Java, Selenium, TestNG, Maven , Cucumber |
 | **Python Selenium Automation** | Web automation using Python & Pytest | Python, Selenium, Pytest |
 | **API Testing Framework** | REST API automation framework | Postman, REST Assured, Python |
 | **AI + QA Learning Projects** | Experiments with ML in QA | Python, AI, ML |
@@ -68,11 +70,11 @@
 <!-- ======================== Connect ======================== -->
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/tejaspatel/">
+  <a href="https://www.linkedin.com/in/tejaspatel123/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:pateltejas799@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
