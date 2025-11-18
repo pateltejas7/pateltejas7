@@ -77,6 +77,7 @@
 </p>
 ---
 <!-- ======================== Connect ======================== -->
+
 ## 🤝 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/tejaspatel123/">
